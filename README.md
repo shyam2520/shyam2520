@@ -42,15 +42,20 @@
 <br>   
     
 - **Front-End Development**:
-
+   ![ANGULAR](https://img.shields.io/badge/Angular-Js?style=for-the-badge&logo=angular&color=red)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
-- **Cloud Hosting**:
+- **Back-End Development**:
+   ![DJANGO](https://img.shields.io/badge/django-any?style=for-the-badge&logo=django&logoColor=%23092E20&labelColor=white&color=%23092E20)
+   ![NODE JS](https://img.shields.io/badge/NODE%20JS-any?style=for-the-badge&logo=nodedotjs&logoColor=%23339933&labelColor=white&color=%23339933)
+<br>
 
+- **Cloud Hosting**:
+    ![Heroku](https://img.shields.io/badge/HEROKU-any?style=for-the-badge&logo=heroku&logoColor=%23430098&labelColor=white&color=%23430098)
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
@@ -93,7 +98,6 @@
 </a>
 </div>
 
-<br>
 <br>
 <br>
 
@@ -139,10 +143,6 @@
 <br>
 <br>
 
-<br>
-<br>
-<br>
-<br>
 
 ---
 
