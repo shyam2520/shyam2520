@@ -22,7 +22,7 @@
 - A passionate Self-taught Full-Stack developer
 - Currently pursuing masters @ Northeastern University
 - Personal website [link](https://shyam2520.github.io/#/home)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1PV1woqHNgR7DPeEdPKTUhddERvv8-8Ix/view)
 
 <br><br>
 
