@@ -1,10 +1,10 @@
-### Hi there 👋
+ ### Hi there 👋
 
 
 <h1 align="center"><b>Hi , I'm Shyam Sundar Mylai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FD7F7&center=true&width=435&lines=Grad+Student+%40+Northeastern+University;Ex-Project+Engineer+%40+Wipro;Currently+learning+WebRTC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FD7F7&center=true&width=435&lines=Grad+%40+Northeastern+University;Ex-Project+Engineer+%40+Wipro;Currently+learning+WebRTC" alt="Typing SVG" /></a>
 </p>
 
 
