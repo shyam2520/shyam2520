@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hi , I'm Shyam Sundar Mylai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Self+taught+Developer;Active+Learner+in+Back+End;Masters+%40+Northeastern+University;Fifa++Newbie" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FD7F7&center=true&width=435&lines=Grad+Student+%40+Northeastern+University;Ex-Project+Engineer+%40+Wipro;Currently+learning+WebRTC" alt="Typing SVG" /></a>
 </p>
 
 
@@ -20,9 +20,9 @@
 <br>
 
 - A passionate Self-taught Full-Stack developer
-- Currently pursuing masters @ Northeastern University
+- Currently pursuing Masters @ Northeastern University
 - Personal website [link](https://shyam2520.github.io/#/home)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1HHvD4nMt7Ptqrwg96qnKuY-EmKHnXPN2/view?usp=drivesdk)
+- I’m currently open for an internship or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1HHvD4nMt7Ptqrwg96qnKuY-EmKHnXPN2/view?usp=drivesdk)
 
 <br><br>
 
