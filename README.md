@@ -15,7 +15,7 @@ Full stack Developer
 I have been working as Full Stack developer for 2 years at Wipro and currently pursuing my Masters at Northeastern University. I am very passionate about computers and always was open to deep dive to new tech in the industry
 
 * 🌍  I'm based in Boston
-* 🖥️  See my portfolio at [Portfolio](http://https://shyam2520.github.io/)
+* 🖥️  See my portfolio at [Portfolio](https://shyam2520.github.io/)
 * ✉️  You can contact me at [shyam2562000@gmail.com](mailto:shyam2562000@gmail.com)
 * 🚀  I'm currently working on [JAAW](http://jaaw-official.onrender.com/)
 * 🧠  I'm learning WebRTC and Cloud Computing
